@@ -75,5 +75,5 @@ The analysis highlights significant trends in Swissgrid's ancillary services mar
 
 ## Repository Structure
 - exploration.ipynb: contains all the code of analysis
-- service_system_analysis.pdf: contains all plots, tables and their analysis
+- Swiss_ancilary_services_analysis.pdf: contains all plots, tables and their analysis
 - gfx:contains all the plots of the report
